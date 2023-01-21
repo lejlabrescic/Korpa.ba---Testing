@@ -23,8 +23,10 @@ We have provided many snippets & screenshots of the tests alongside with their s
 
 
 - [Amila Čaušević](https://github.com/CausevicAmila)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amila-causevic-679691223/)
 - [Lejla Breščić](https://github.com/lejlabrescic)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lejlabrescic/)
 
 
