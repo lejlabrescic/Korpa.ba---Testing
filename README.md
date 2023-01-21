@@ -33,5 +33,4 @@ We have provided many snippets & screenshots of the tests alongside with their s
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png) 
 ![Logo](https://avatars.githubusercontent.com/u/874086?s=200&v=4)
-![Logo](https://play-lh.googleusercontent.com/ctZdTOfP_tBXF0ufgz1MQvEonZXvk0wDQ3NZDCBDhoR-XHekc30cfR7vhhEgxxaNWQ)
 
